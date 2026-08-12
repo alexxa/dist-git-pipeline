@@ -8,6 +8,10 @@
             "compose": "Fedora-44",
             "distro": "fedora-44"
         },
+        "f45": {
+            "compose": "Fedora-Rawhide",
+            "distro": "fedora-45"
+        },
         "rawhide": {
             "compose": "Fedora-Rawhide",
             "distro": "fedora-rawhide"
